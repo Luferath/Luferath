@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, me chamo Filipe Freitas!
 
 ### 💻 Desenvolvedor Sênior | Cientista de Dados | Especialista em IA
 
@@ -53,7 +53,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusuario)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://seublog.com)
 
 ---
 
