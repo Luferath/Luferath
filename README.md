@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Filipe Freitas!
 
-### 💻 Desenvolvedor Sênior | Cientista de Dados | Especialista em IA
+### 💻 Desenvolvedor | Cientista de Dados | Especialista em IA
 
 🚀 Focado em Transformação Digital e Automação de Processos
 
