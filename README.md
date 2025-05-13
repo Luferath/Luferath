@@ -4,7 +4,7 @@
 
 🚀 Focado em Transformação Digital e Automação de Processos
 
-🌟 Apaixonado por otimizar a gestão pública com tecnologias emergentes e soluções de IA
+🌟 Apaixonado por otimizar a gestão com tecnologias emergentes e soluções de IA
 
 ---
 
