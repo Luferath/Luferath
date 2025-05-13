@@ -60,7 +60,7 @@
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=luferath&show_icons=true&theme=dark)
 
-![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luferato&layout=compact&theme=dark)
+![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luferath&layout=compact&theme=dark)
 
 ---
 
