@@ -21,6 +21,17 @@ Aqui apresento um conjunto de tecnologias, linguagens e ferramentas com as quais
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
+### ☁️ Firebase e Ferramentas Relacionadas
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge\&logo=firebase\&logoColor=white)
+![Firebase Authentication](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Firebase Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Firebase Storage](https://img.shields.io/badge/Storage-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+
+Caso precise de outras badges, é só avisar!
+
 ### 📊 Dados, Bancos de Dados e Visualização
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
