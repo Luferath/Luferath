@@ -30,9 +30,8 @@ Aqui apresento um conjunto de tecnologias, linguagens e ferramentas com as quais
 ![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![Firebase Storage](https://img.shields.io/badge/Storage-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
 
-Caso precise de outras badges, é só avisar!
-
 ### 📊 Dados, Bancos de Dados e Visualização
+
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
 <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
@@ -42,6 +41,7 @@ Caso precise de outras badges, é só avisar!
 <a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"></a>
 
 ### 🧠 Inteligência Artificial, Machine Learning & NLP
+
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
 <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"></a>
@@ -54,12 +54,15 @@ Caso precise de outras badges, é só avisar!
 <a href="https://www.nltk.org/" target="_blank"><img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"></a>
 
 ### 💬 LLMs e Bancos de Dados Vetoriais
+
 <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-3498DB?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"></a>
 <a href="https://www.pinecone.io/" target="_blank"><img src="https://img.shields.io/badge/Pinecone-0077FF?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"></a>
 <a href="https://weaviate.io/" target="_blank"><img src="https://img.shields.io/badge/Weaviate-00A98F?style=for-the-badge&logo=weaviate&logoColor=white" alt="Weaviate"></a>
 <a href="https://milvus.io/" target="_blank"><img src="https://img.shields.io/badge/Milvus-00B8FF?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus"></a>
 <a href="https://www.trychroma.com/" target="_blank"><img src="https://img.shields.io/badge/Chroma-5F2EEA?style=for-the-badge&logo=chroma&logoColor=white" alt="Chroma"></a>
+
 ### ☁️ Cloud, DevOps e Backend
+
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
 <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
@@ -70,9 +73,10 @@ Caso precise de outras badges, é só avisar!
 <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
 
 ### 📱 Low-Code / No-Code
+
 <a href="https://www.appsheet.com/" target="_blank"><img src="https://img.shields.io/badge/AppSheet-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="AppSheet"></a>
 
----
+
 
 ## 🌱 Atualmente
 
