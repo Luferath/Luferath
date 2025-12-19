@@ -86,11 +86,34 @@ Aqui apresento um conjunto de tecnologias, linguagens e ferramentas com as quais
 
 ---
 
-## 💼 Projetos em Destaque
+💼 Projetos em Destaque
 
-- 📝 **PCA Digital**: Sistema de planejamento de contratações automatizado, agilizando e trazendo transparência para o processo licitatório.
-- 📊 **Gestão da Inovação**: Desenvolvimento de relatórios automatizados e dashboards interativos para monitoramento de indicadores de inovação.
-- 🤖 **IA para Contratações Públicas**: Aplicação de modelos de NLP para análise e otimização de editais e documentos em processos de contratação.
+📝 PCA Digital
+Sistema inteligente de Planejamento de Contratações Anual, com automação de fluxos, consolidação de demandas e apoio à tomada de decisão, alinhado à Lei nº 14.133/2021, promovendo transparência, padronização e eficiência no processo licitatório.
+
+📊 Gestão da Inovação
+Plataforma de monitoramento da inovação institucional, com dashboards interativos, relatórios automatizados e indicadores estratégicos para acompanhamento de projetos, iniciativas e resultados de inovação no âmbito do Judiciário.
+
+🤖 IA para Contratações Públicas
+Aplicação de Processamento de Linguagem Natural (NLP) e LLMs para análise, apoio à elaboração e otimização de DFD, ETP e Termo de Referência, reduzindo riscos jurídicos, retrabalho e aumentando a qualidade técnica dos documentos.
+
+🧠 CGIAFlow – Governança e Gestão de IA
+Sistema de governança de Inteligência Artificial, voltado ao controle, acompanhamento e conformidade de soluções de IA no setor público, contemplando gestão de riscos, princípios éticos, ciclo de vida dos modelos, auditoria, transparência e aderência a normas institucionais e regulatórias.
+
+🗂️ Sistema de Gestão de Bens e Materiais
+Desenvolvimento de solução integrada para controle de materiais de consumo, bens móveis, atas de registro de preços, ordens de fornecimento e inventário, em conformidade com a nova Lei de Licitações e boas práticas de logística pública.
+
+🧠 IA Institucional para Apoio Administrativo
+Projeto de assistente inteligente para servidores públicos, com foco em automação de rotinas administrativas, respostas orientadas a normativos internos e apoio à tomada de decisão baseada em dados.
+
+📈 Plano de Transformação Digital (PTD)
+Estruturação, cadastro e acompanhamento de iniciativas estratégicas de transformação digital, com governança, indicadores de maturidade digital e monitoramento de resultados organizacionais.
+
+🏛️ Governança em Inteligência Artificial – TJRO
+Atuação no desenho de diretrizes, políticas e princípios de uso responsável de IA, integrando aspectos técnicos, jurídicos e éticos para adoção segura da tecnologia no Judiciário.
+
+🔍 Relatórios Inteligentes em AppSheet
+Desenvolvimento de soluções low-code/no-code para relatórios dinâmicos, visualização de dados estratégicos e automação de controles gerenciais.
 
 ---
 
