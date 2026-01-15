@@ -126,10 +126,9 @@ Desenvolvimento de soluções low-code/no-code para relatórios dinâmicos, visu
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=luferath&show_icons=true&theme=dark&hide_border=true&rank_icon=github)
-![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luferath&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luferath&show_icons=true&theme=dark&hide_border=true&rank_icon=github)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luferath&layout=compact&theme=dark&hide_border=true)
 
 ## ✨ Vamos Conectar?
 
