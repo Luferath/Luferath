@@ -124,11 +124,6 @@ Desenvolvimento de soluções low-code/no-code para relatórios dinâmicos, visu
 
 ---
 
-<div align="center">
-
-![GitHub Stats](./assets/github-stats.svg)
-
-</div>
 
 
 ![Skills](https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,docker,postgres,linux,git)
