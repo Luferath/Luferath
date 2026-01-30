@@ -124,9 +124,12 @@ Desenvolvimento de soluções low-code/no-code para relatórios dinâmicos, visu
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luferath&show_icons=true&theme=dark&hide_border=true" />
-</p>
+<div align="center">
+
+![GitHub Stats](./assets/github-stats.svg)
+
+</div>
+
 
 ![Skills](https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,docker,postgres,linux,git)
 
