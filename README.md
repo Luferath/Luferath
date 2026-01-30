@@ -128,7 +128,8 @@ Desenvolvimento de soluções low-code/no-code para relatórios dinâmicos, visu
   <img src="https://github-readme-stats.vercel.app/api?username=luferath&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luferath&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luferath&layout=compact&theme=dark&hide_border=true)
+
 ## ✨ Vamos Conectar?
 
 Sempre aberto para novas ideias, colaborações e projetos inovadores, especialmente aqueles que buscam transformar positivamente o setor público. Sinta-se à vontade para entrar em contato!
