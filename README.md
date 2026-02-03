@@ -1,5 +1,7 @@
 # 👋 Olá, me chamo Filipe Freitas!
 
+## Confira as tendências para 2026: https://tech-pulse-horizon.lovable.app
+
 ### 💻 Desenvolvedor | Cientista de Dados | Especialista em IA
 
 🚀 Focado em Transformação Digital e Automação de Processos
